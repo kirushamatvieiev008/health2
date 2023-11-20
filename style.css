@@ -1,0 +1,198 @@
+.conteiner {
+    max-width: 900px;
+    margin: 0 auto;
+    padding-top: 20px;
+    /* outline: solid; */
+    text-align: center;
+}
+
+.global {
+    width: auto;
+    height: 400px;
+    background-color: blueviolet;
+    text-align: center;
+    
+}
+
+.desises {
+    padding-top: 170px;
+    text-transform: uppercase;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Noto Sans Mono', monospace;
+}
+
+.desaster {
+    text-indent: 40px;
+    font-style: italic;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Noto Sans Mono', monospace;
+}
+
+.picture {
+    display: block;
+    margin: auto;
+    width: 900px;
+    border-radius: 20px;
+}
+
+.top_10 {
+    font-size: 20px;
+    text-indent: 20px;
+    font-style: italic;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Noto Sans Mono', monospace;
+}
+
+.nafta {
+    height: 300px;
+    width: 445px;
+    margin: 30px 10px 0 460px;
+}
+
+.lis {
+    margin: 30px 10px 0 0;
+    width: 445px;
+    height: 300px;
+}
+
+.list_item {
+    list-style-type: none;
+}
+
+.photos {
+    display: flex;
+}
+
+.duck {
+    margin: 0 auto;
+    width: 910px;
+    display: block;
+    margin: 0 auto 60px auto;
+}
+
+.num {
+    border-radius: 60px;
+    font-size: 30px;
+    padding: 10px 24px;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Noto Sans Mono', monospace;
+    background-color: blueviolet;
+}
+
+.bomb {
+    margin-top: 60px;
+    font-style: italic;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Noto Sans Mono', monospace;
+}
+
+.title_oppau {
+    font-style: italic;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Noto Sans Mono', monospace;
+}
+
+.oppau {
+    display: block;
+    margin: 50px auto 60px auto;
+    width: 900px;
+}
+
+.oppau_5 {
+    display: block;
+    margin: 50px auto 60px auto;
+    width: 900px;
+}
+
+.p_oppau {
+    text-indent: 40px;
+    font-style: italic;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Noto Sans Mono', monospace;
+}
+
+.ship {
+    display: block;
+    width: 800px;
+    height: 500px;
+    margin: 30px 0 30px 140px
+}
+
+.texas_city {
+    display: flex;
+}
+
+
+.list_item2 {
+    list-style-type: none;
+    margin: auto;
+    padding-left: 90px;
+}
+
+.water {
+    text-indent: 40px;
+    font-style: italic;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Noto Sans Mono', monospace;
+}
+
+.water1 {
+    margin-bottom: 30px;
+    text-indent: 40px;
+    font-style: italic;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Noto Sans Mono', monospace;
+}
+
+.nafta1 {
+    height: 600px;
+    width: 570px;
+    margin: 30px 10px 0 330px;
+}
+
+.lis1 {
+    margin: 30px 10px 0 0;
+    width:  570px;
+    height: 600px;
+}
+
+.nafta12 {
+    height: 400px;
+    width: 570px;
+    margin: 30px 10px 0 330px;
+}
+
+.lis12 {
+    margin: 30px 10px 0 0;
+    width:  570px;
+    height: 400px;
+}
+
+footer {
+
+    width: auto;
+    height: 300px;
+    background-color: blueviolet;
+}
+
+.footer {
+    padding-top: 70px;
+    padding-right: 0;
+    padding-left: 70px;
+}
+
+.list_item0 {
+    list-style-type: none;
+    padding-bottom: 15px;
+}
+
+.list_item9 {
+    list-style-type: none;
+    padding-bottom: 15px;
+}
+
+.end {
+    font-size: 25px;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Noto Sans Mono', monospace;
+}
